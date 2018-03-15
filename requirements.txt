@@ -2,3 +2,4 @@ rpy2
 jupyter
 numpy
 pandas
+requests
