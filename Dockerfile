@@ -12,4 +12,4 @@ RUN pip3 install -r requirements.txt
 
 WORKDIR /usr/src/app
 
-CMD jupyter notebook --ip=0.0.0.0 --port=12345 --allow-root
+CMD jupyter lab --ip=0.0.0.0 --port=12345 --allow-root
